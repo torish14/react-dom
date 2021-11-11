@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/torish14/react-dom/issues"
   },
-  "homepage": "https://github.com/torish14/react-dom#readme"
+  "homepage": "https://github.com/torish14/react-dom#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
 }
